@@ -1,0 +1,1 @@
+console.log("Olá pessoal, estou executando esse arquivo no node");
