@@ -1,0 +1,27 @@
+{
+  "name": "app-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "^6.1.2",
+    "@react-navigation/native": "^7.1.18",
+    "@react-navigation/native-stack": "^7.5.0",
+    "expo": "~54.0.18",
+    "expo-status-bar": "~3.0.8",
+    "firebase": "^12.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-native": "0.81.5",
+    "react-native-gesture-handler": "^2.29.0",
+    "react-native-safe-area-context": "^5.6.1",
+    "react-native-screens": "^4.18.0",
+    "react-native-web": "^0.21.2"
+  },
+  "private": true
+}
